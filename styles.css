@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+   }
+body{
+    background-image: url("download\ \(1\).jpg");
+    background-size: 980px;
+    background-repeat: no repeat;
+}
+h1{
+    color: rgb(247, 132, 151);
+    text-decoration: underline;
+}
+.fcontainer1{
+    /*border: 2px solid red;*/
+    align-items: center;
+    margin-left: 70px;
+    color: rgb(247, 132, 151);
+}
+.item{
+    height: 3rem;
+    width: 50rem;
+}
+.btn{
+    height: 3rem;
+    width: 5rem;
+}
+.tsk{
+    align-items: center;
+    margin-left: 70px;
+    color: rgb(247, 132, 151);
+}
+.text1{
+    border: 2px solid rgb(243, 154, 221);
+    height: 3rem;
+    width: 60rem;
+    align-items: center;
+    margin-left: 70px;
+   text-align:justify;
+    color: rgb(131, 10, 131)
+}
+.edit1{
+margin-left:700px ;
+height: 2rem;
+width: 5rem;
+background-color: palevioletred;
+}
+.delete1{
+    height: 2rem;
+    width: 5rem;
+    background-color: lightblue;
+}
+.edit1:hover,.edit1:focus{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color:white;
+    background-color: rgb(6, 199, 199);
+    font-size:1.1rem;
+}
+.delete1:hover,.delete1:focus{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color:white;
+    background-color: rgb(6, 199, 199);
+    font-size:1.1rem;
+
+}
+.text2{
+    border: 2px solid rgb(243, 154, 221);
+    height: 3rem;
+    width: 60rem;
+    align-items: center;
+    margin-left: 70px;
+   text-align:justify;
+    color: rgb(131, 10, 131)
+}
+.edit2{
+margin-left:720px ;
+height: 2rem;
+width: 5rem;
+background-color: palevioletred;
+}
+.delete2{
+    height: 2rem;
+    width: 5rem;
+    background-color: lightblue;
+}
+.edit2:hover,.edit2:focus{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color:white;
+    background-color: rgb(6, 199, 199);
+    font-size:1.1rem;
+}
+.delete2:hover,.delete2:focus{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color:white;
+    background-color: rgb(6, 199, 199);
+    font-size:1.1rem;
+
+}
+.text3{
+    border: 2px solid rgb(243, 154, 221);
+    height: 3rem;
+    width: 60rem;
+    align-items: center;
+    margin-left: 70px;
+   text-align:justify;
+    color: rgb(131, 10, 131)
+}
+.edit3{
+margin-left:740px ;
+height: 2rem;
+width: 5rem;
+background-color: palevioletred;
+}
+.delete3{
+    height: 2rem;
+    width: 5rem;
+    background-color: lightblue;
+}
+.edit3:hover,.edit3:focus{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color:white;
+    background-color: rgb(6, 199, 199);
+    font-size:1.1rem;
+}
+.delete3:hover,.delete3:focus{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color:white;
+    background-color: rgb(6, 199, 199);
+    font-size:1.1rem;
+
+}
